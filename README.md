@@ -7,4 +7,4 @@ Being interested in simulations, I am occupied in the updating and development o
 
 ### Miscellaneous Special Objects
 
-### [SpaceX Boca Chica Tx Sites](https://github.com/medmatix/X-Plane-Scenery/blob/Spacex-Boca-Chica-area)
+### [SpaceX Boca Chica Tx Sites](https://github.com/medmatix/X-Plane-Scenery/tree/Spacex-Boca-Chica-area)
