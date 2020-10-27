@@ -5,6 +5,6 @@ Being interested in simulations, I am occupied in the updating and development o
 
 ## Projects
 
-### Miscellaneous special ojects
+### Miscellaneous Special Objects
 
 ### SpaceX Boca Chica Tx Sites
