@@ -8,4 +8,4 @@ Being interested in simulations, I am occupied in the updating and development o
 ### Miscellaneous Special Objects
 
 ### [SpaceX Boca Chica Tx Sites](https://github.com/medmatix/X-Plane-Scenery/tree/Spacex-Boca-Chica-area)
-Although strictly not an airport, I have created scenery for this FAA Licenced / Designated spaceport in South Texas. The, "IATA ID" of the semi-fictious FAA recognised  facility is informally SX20. A zipped version of the mose uup to data installation is at this branch.
+Although strictly not an airport, I have created X-Plane 11 scenery for this FAA Licenced / Designated spaceport in South Texas. The, "IATA ID" of the semi-fictious FAA recognised  facility is informally SX20. A zipped version of the most up-to-data installation is here.
