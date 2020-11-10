@@ -1,0 +1,9 @@
+A
+850
+DRAPED_POLYGON
+
+TEXTURE Wheat.png
+SCALE 30 30 
+SURFACE dirt
+LAYER_GROUP airports -1
+ 
