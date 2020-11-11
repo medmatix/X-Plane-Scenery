@@ -9,3 +9,12 @@ The rapid development of both infra-structure and at the Boca Chica Texas sites 
 Although strictly not an airport, I have created X-Plane 11 scenery for this FAA Licenced / Designated spaceport in South Texas. The, "IATA ID" of the semi-fictious FAA recognised  facility is informally SX20. A zipped version of the mose uup to data installation is here along with supporting development metwerials.
 
 [Here](https://github.com/medmatix/X-Plane-Scenery/blob/Spacex-Boca-Chica-area/Spacex%20-%20Boca%20Chica/Pictures%20and%20Samples/Spacex%20X-Plane%20Boca%20Chica%20Scenery.pdf) are screen shots of the boca chica area in X-Plane 11.
+
+!(https://github.com/medmatix/X-Plane-Scenery/tree/Spacex-Boca-Chica-area/Spacex%20-%20Boca%20Chica/Pictures%20and%20Samples)
+!(https://github.com/medmatix/X-Plane-Scenery/tree/Spacex-Boca-Chica-area/Spacex%20-%20Boca%20Chica/Pictures%20and%20Samples)
+!(https://github.com/medmatix/X-Plane-Scenery/tree/Spacex-Boca-Chica-area/Spacex%20-%20Boca%20Chica/Pictures%20and%20Samples)
+!(https://github.com/medmatix/X-Plane-Scenery/tree/Spacex-Boca-Chica-area/Spacex%20-%20Boca%20Chica/Pictures%20and%20Samples)
+!(https://github.com/medmatix/X-Plane-Scenery/tree/Spacex-Boca-Chica-area/Spacex%20-%20Boca%20Chica/Pictures%20and%20Samples)
+!(https://github.com/medmatix/X-Plane-Scenery/tree/Spacex-Boca-Chica-area/Spacex%20-%20Boca%20Chica/Pictures%20and%20Samples)
+!(https://github.com/medmatix/X-Plane-Scenery/tree/Spacex-Boca-Chica-area/Spacex%20-%20Boca%20Chica/Pictures%20and%20Samples)
+
