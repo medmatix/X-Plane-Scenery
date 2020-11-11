@@ -10,18 +10,18 @@ Although strictly not an airport, I have created X-Plane 11 scenery for this FAA
 
 [Here](https://github.com/medmatix/X-Plane-Scenery/blob/Spacex-Boca-Chica-area/Spacex%20-%20Boca%20Chica/Pictures%20and%20Samples/Spacex%20X-Plane%20Boca%20Chica%20Scenery.pdf) are screen shots of the boca chica area in X-Plane 11.
 
-![](Spacex%20-%20Boca%20Chica/Pictures%20and%20Samples/Boca%20Chica%201.png)
+![Sub-orbital Platforms](Spacex%20-%20Boca%20Chica/Pictures%20and%20Samples/Boca%20Chica%201.png)
   
-![](Spacex%20-%20Boca%20Chica/Pictures%20and%20Samples/Boca%20Chica%202.png)
+![Road to Build Site](Spacex%20-%20Boca%20Chica/Pictures%20and%20Samples/Boca%20Chica%202.png)
   
 ![Build Site](Spacex%20-%20Boca%20Chica/Pictures%20and%20Samples/Boca%20Chica%203.png)
   
 ![Boca Chica Village](Spacex%20-%20Boca%20Chica/Pictures%20and%20Samples/Boca%20Chica%204.png)
   
-![](Spacex%20-%20Boca%20Chica/Pictures%20and%20Samples/Boca%20Chica%205.png)
+![Otbital Plantform and Landing pad](Spacex%20-%20Boca%20Chica/Pictures%20and%20Samples/Boca%20Chica%205.png)
   
 ![Pier and Ferry](Spacex%20-%20Boca%20Chica/Pictures%20and%20Samples/SpaceX%20Pier%20and%20Ferry.png)
   
-![](Spacex%20-%20Boca%20Chica/Pictures%20and%20Samples/Boca%20Chica%201.png)
+![Sea Launch Platform](Spacex%20-%20Boca%20Chica/Pictures%20and%20Samples/SpaceX%20South%20Texas%20Sea%20Launch%20platform.png)
   
 
