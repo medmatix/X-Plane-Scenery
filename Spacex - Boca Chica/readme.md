@@ -1,1 +1,1 @@
-For the most up-to-date installable scenery down load the zipped, "SpaceX - Boca Chica Scenery Set.zip". Unzip to your Custom Scenery directory. Reqired objects form OpenSceneryX Library and Handy_Objects_Library.
+For the most up-to-date installable scenery down load the zipped, "SpaceX - Boca Chica Scenery Set.zip". Unzip to your Custom Scenery directory. Required objects from OpenSceneryX Library and Handy_Objects_Library.
