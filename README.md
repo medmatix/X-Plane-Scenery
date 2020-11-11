@@ -18,7 +18,7 @@ Although strictly not an airport, I have created X-Plane 11 scenery for this FAA
   
 ![Boca Chica Village](Spacex%20-%20Boca%20Chica/Pictures%20and%20Samples/Boca%20Chica%204.png)
   
-![Otbital Plantform and Landing pad](Spacex%20-%20Boca%20Chica/Pictures%20and%20Samples/Boca%20Chica%205.png)
+![Road to Launch Site](Spacex%20-%20Boca%20Chica/Pictures%20and%20Samples/Boca%20Chica%205.png)
   
 ![Pier and Ferry](Spacex%20-%20Boca%20Chica/Pictures%20and%20Samples/SpaceX%20Pier%20and%20Ferry.png)
   
