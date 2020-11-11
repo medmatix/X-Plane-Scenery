@@ -12,16 +12,16 @@ Although strictly not an airport, I have created X-Plane 11 scenery for this FAA
 
 ![](Spacex%20-%20Boca%20Chica/Pictures%20and%20Samples/Boca%20Chica%201.png)
   
-![](/Spacex - Boca Chica/Pictures and Samples/Boca Chica 2.png)
+![](Spacex%20-%20Boca%20Chica/Pictures%20and%20Samples/Boca%20Chica%202.png)
   
-![](/Spacex - Boca Chica/Pictures and Samples/Boca Chica 3.png)
+![](Spacex%20-%20Boca%20Chica/Pictures%20and%20Samples/Boca%20Chica%203.png)
   
-![](/Spacex - Boca Chica/Pictures and Samples/Boca Chica 4.png)
+![](Spacex%20-%20Boca%20Chica/Pictures%20and%20Samples/Boca%20Chica%204.png)
   
-![](/Spacex - Boca Chica/Pictures and Samples/Boca Chica 5.png)
+![](Spacex%20-%20Boca%20Chica/Pictures%20and%20Samples/Boca%20Chica%205.png)
   
-![](/Spacex - Boca Chica/Pictures and Samples/Boca Chica 1.png)
+![](Spacex%20-%20Boca%20Chica/Pictures%20and%20Samples/Boca%20Chica%201.png)
   
-![](Spacex - Boca Chica/Pictures and Samples/Boca Chica 1.png)
+![](Spacex%20-%20Boca%20Chica/Pictures%20and%20Samples/Boca%20Chica%201.png)
   
 
