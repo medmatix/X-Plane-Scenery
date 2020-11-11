@@ -10,7 +10,7 @@ Although strictly not an airport, I have created X-Plane 11 scenery for this FAA
 
 [Here](https://github.com/medmatix/X-Plane-Scenery/blob/Spacex-Boca-Chica-area/Spacex%20-%20Boca%20Chica/Pictures%20and%20Samples/Spacex%20X-Plane%20Boca%20Chica%20Scenery.pdf) are screen shots of the boca chica area in X-Plane 11.
 
-![](/Spacex - Boca Chica/Pictures and Samples/Boca Chica 1.png)
+![](/X-Plane-Scenery/tree/Spacex-Boca-Chica-area/Spacex - Boca Chica/Pictures and Samples/Boca Chica 1.png)
   
 ![](/Spacex - Boca Chica/Pictures and Samples/Boca Chica 2.png)
   
