@@ -24,4 +24,3 @@ Although strictly not an airport, I have created X-Plane 11 scenery for this FAA
   
 ![Sea Launch Platform](Spacex%20-%20Boca%20Chica/Pictures%20and%20Samples/SpaceX%20South%20Texas%20Sea%20Launch%20platform.png)
   
-
