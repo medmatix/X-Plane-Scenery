@@ -20,9 +20,9 @@ Although strictly not an airport, I have created X-Plane 11 scenery for this FAA
   
 ![Road to Launch Site](Spacex%20-%20Boca%20Chica/Pictures%20and%20Samples/Boca%20Chica%205.png)
 
-The following are "fictious" areas but the ferry dock is my proposed solotion to transporting the Super heavy andStarship tp a Sea Launch Platform which is a plan on record. The Use of the beach area is less doable for regulatory reasons of cource.
+The following are "fictitious" areas but the ferry dock is my proposed solotion to transporting the Super heavy andStarship tp a Sea Launch Platform which is a plan on record. The Use of the beach area is less doable for regulatory reasons of cource.
 
-The platform I developed last September wwhen the "other Mary" spotted a platform being renovated in the ship canal. Your guess on the ultimate configuration is as good as mine, but here is one for fun.
+The platform I developed last September when the "Mary - Maria Pointer" @BocaChicaMaria1 spotted a platform being renovated in the ship canal. Your guess on the ultimate configuration is as good as mine, but here is one for fun.
   
 ![Pier and Ferry](Spacex%20-%20Boca%20Chica/Pictures%20and%20Samples/SpaceX%20Pier%20and%20Ferry.png)
   
